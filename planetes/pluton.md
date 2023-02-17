@@ -11,4 +11,5 @@ Icone créée par [chatnut-is-industries](https://www.flaticon.com/authors/chatn
 - Masse : 1.314 x 10<sup>22</sup> kg
 - Diamètre : 2 376.6 km
 - Distance au soleil : 5,913 x 10<sup>9</sup> km
+- Température : -229 °C
 - Symbole : &#x2647;
